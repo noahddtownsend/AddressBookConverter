@@ -2,3 +2,5 @@ Converts simple address book between JSON and XML formats.
 Takes 2 arguments
 [0] Input file (Address book stored in either JSON or XML formats)
 [1] Destination file
+
+© 2021 Noah Townsend - All rights reserved
